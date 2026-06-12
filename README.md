@@ -12,28 +12,6 @@
 ## 🏆 Proof of Engineering Excellence
 This project demonstrates production-standard engineering rigor, validated through automated testing and standards compliance.
 
-### 📊 100% Comprehensive API Coverage
-![Comprehensive API Test Suite](docs/images/API.png)
-**Verified**: **35/35 assertions passed** covering all CRM, Commerce, and Project resources. This ensures that every endpoint in the Abacus ecosystem responds correctly with standardized data envelopes.
-
----
-
-### 🛡️ End-to-End Reliability
-![Full System Integration](docs/images/Integration%20Test.png)
-**Verified**: **47/47 end-to-end integration tests passed**. This validates the entire communication chain: from the n8n node, through the API Gateway, to the ERP engine.
-
----
-
-### 🏗️ Type-Safe Build Pipeline
-![Standard Compliance & Build](docs/images/Successful%20Build.png)
-**Verified**: Successful TypeScript compilation and asset pipeline for the `n8n-nodes-abacus` package. Proof of a **zero-runtime dependency architecture**, ensuring maximum stability in n8n environments.
-
----
-
-### 🔐 Enterprise-Grade Security
-![Auth Verification](docs/images/openid-configuration-response.png)
-**Verified**: **Dynamic OpenID Connect discovery** and Zero Runtime Dependency confirmation. This ensures the node meets the high security and stability benchmarks required for the n8n Community node repository.
-
 ---
 
 ## 🌟 Key Highlights
